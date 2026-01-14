@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=500&lines=Full+Stack+Developer;Especialista+em+Automação;TypeScript+%7C+Express+%7C+React;Python+%7C+Flask+%7C+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Eng.+%26+Integrations;TypeScript+%7C+NestJS+%7C+Next.js;API+REST+%7C+Postman+%7C+Figma" alt="Typing SVG" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,13 +14,13 @@
 
 ## 🧑‍💻 Sobre Mim
 
-[cite_start]Sou Desenvolvedor Full-Stack com 3 anos de experiência e Analista de Automação de Processos Internos[cite: 3, 10]. [cite_start]Meu foco é construir soluções que não apenas funcionam, mas que eliminam a fricção e o trabalho manual repetitivo através de arquiteturas robustas e automações inteligentes[cite: 11, 14].
+Sou Desenvolvedor Full-Stack com 3 anos de experiência e Analista de Automação de Processos Internos. Meu foco é construir soluções que não apenas funcionam, mas que eliminam a fricção e o trabalho manual repetitivo através de arquiteturas robustas e automações inteligentes.
 
-- [cite_start]🚀 **Foco Atual:** Arquitetura e consumo de APIs REST para integração de sistemas e criação de dashboards estratégicos para tomada de decisão[cite: 12, 13, 15].
-- [cite_start]⚡ **Backend:** Especialista em **Node.js (Express)** e **TypeScript**, além de sólida experiência com **Python (Flask)** para scripts de automação[cite: 11, 21, 22].
-- [cite_start]⚛️ **Frontend:** Construção de interfaces dinâmicas e dashboards com **React, TypeScript, Tailwind CSS e MUI**[cite: 4, 12].
-- [cite_start]⚙️ **Automação:** Mapeamento de processos e implementação de ferramentas para otimização de fluxos de trabalho[cite: 11, 14].
-- [cite_start]🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas (UniBH)[cite: 29, 30].
+- 🚀 **Foco Atual:** Arquitetura e consumo de APIs REST para integração de sistemas e criação de dashboards estratégicos para tomada de decisão.
+- ⚡ **Backend:** Especialista em **Node.js (Express)** e **TypeScript**, além de sólida experiência com **Python (Flask)** para scripts de automação.
+- ⚛️ **Frontend:** Construção de interfaces dinâmicas e dashboards com **React, TypeScript, Tailwind CSS e MUI**.
+- ⚙️ **Automação:** Mapeamento de processos e implementação de ferramentas para otimização de fluxos de trabalho.
+- 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas **(UniBH)**.
 
 ---
 
