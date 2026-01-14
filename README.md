@@ -14,9 +14,9 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou Desenvolvedor Full-Stack com 3 anos de experiência e Analista de Automação de Processos Internos. Meu foco é construir soluções que não apenas funcionam, mas que eliminam a fricção e o trabalho manual repetitivo através de arquiteturas robustas e automações inteligentes.
+Desenvolvedor Full-Stack com foco em Automação de Processos Internos. Meu objetivo é construir soluções que não apenas funcionam, mas que eliminam a fricção e o trabalho manual repetitivo através de arquiteturas robustas e automações inteligentes.
 
-- 🚀 **Foco Atual:** Arquitetura e consumo de APIs REST para integração de sistemas e criação de dashboards estratégicos para tomada de decisão.
+- 🚀 **Foco Atual:** Arquitetura, consumo e construção de APIs REST para integração de sistemas e criação de dashboards estratégicos para tomada de decisão.
 - ⚡ **Backend:** Especialista em **Node.js (Express)** e **TypeScript**, além de sólida experiência com **Python (Flask)** para scripts de automação.
 - ⚛️ **Frontend:** Construção de interfaces dinâmicas e dashboards com **React, TypeScript, Tailwind CSS e MUI**.
 - ⚙️ **Automação:** Mapeamento de processos e implementação de ferramentas para otimização de fluxos de trabalho.
